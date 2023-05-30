@@ -86,7 +86,7 @@ The implementation of Snort IDS will take place in the zone to detect intrusions
 
 - NMAP scan detection.
 
-![image](https://github.com/zaka1200/tp_snort/assets/121964432/f50a9afa-6741-4930-8041-bd1f2ab9620b)
+![image](https://github.com/zaka1200/tp_snort/assets/121964432/5a17048c-5cee-41da-a913-754a62d2fcbc)
 
 ![image](https://github.com/zaka1200/tp_snort/assets/121964432/246f035f-cf2b-4536-8099-2398ca959e5d)
 
